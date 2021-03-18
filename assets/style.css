@@ -1,0 +1,58 @@
+/* White Devil @ Devilshalani css3 stylesheet */
+*
+{
+  --bgColor1: radial-gradient(circle at top left, #4122f3, #2e6abe);
+  --bgColor2: radial-gradient(circle at top left, #294a80, #1c66fb);
+  --bgColor3:radial-gradient(circle at top left, #610ae6, #4d39db);
+  --bgColor4:radial-gradient(circle at top left, #ae1ed3, #2129cd);
+  --bgColor5:radial-gradient(circle at top left, #5b14de, #0e78d5);
+  --bgColor6:linear-gradient(45deg, #fe0061, #ffeb3b);
+  --bgColor7:radial-gradient(circle at bottom right, #19d7f8, #fd00da);
+  --bgColor8:radial-gradient(circle at top left, #650b97, #1f56b2);
+  --bgColor9:radial-gradient(circle at top left, #1042de, #44a0e3);
+  --bgColor10:radial-gradient(circle at top left, #052db8, #400367);
+  --bgColor11:radial-gradient(circle at top left, #714dfb, #318fdb);
+  --bgColor12:linear-gradient(120deg,#3498db,#8e44ad);
+  --bgColor13:radial-gradient(circle at top left, #0b52a7, #9842ed);
+  --bgColor14:radial-gradient(circle at top left, #013dd1, #482e3b);
+  --bgColor15:radial-gradient(circle at top left, #013dd1, #482e3b);
+  --bgColor16:radial-gradient(circle at top left, #942ef7, #115dac);
+  --bgColor17:radial-gradient(circle at top left, #6436e4, #6b03f2);
+  --bgColor18:radial-gradient(circle at top left, #2fa6db, #1b5fcf);
+  --bgColor19:radial-gradient(circle at top left, #b530a5, #2570dc);
+  --bgColor20:radial-gradient(circle at top left, #8a73e1, #2e78e8);
+  --bgColor21:radial-gradient(circle at top left, #0237d8, #638ecc);
+  --bgColor22:radial-gradient(circle at top left, #f1264f, #2455fa);
+  --bgColor23:radial-gradient(circle at top left, #efafd1, #291af2);
+  --bgColor24:radial-gradient(circle at top left, #287bf5, #213cd6);
+  --bgColor25:radial-gradient(circle at top left, #af4e9b, #060da2);
+  --bgColor26:radial-gradient(circle at top left, #324de6, #d279f8);
+  --bgColor27:radial-gradient(circle at top left, #90a9ed, #2967cd);
+  --bgColor28:radial-gradient(circle at top left, #a71fa0, #0940ea);
+  --bgColor29:radial-gradient(circle at top left, #45b0c2, #140ee3);
+  --bgColor30:radial-gradient(circle at top left, #5cada6, #030ccf);
+  --bgColor31:radial-gradient(circle at top left, #1735f2, #3c42c5);
+  --bgColor32:radial-gradient(circle at top left, #bf45d3, #4510b4);
+  --bgColor33:linear-gradient(120deg,#3498db,#8e44ad);
+  --bgColor34:radial-gradient(circle at top left, #2e5fa0, #241777);
+  --bgColor35:radial-gradient(circle at top left, #ad5e75, #323cfc);
+  --bgColor36:radial-gradient(circle at top left, #9f04ee, #c71ce0);
+  --bgColor37:radial-gradient(circle at top left, #274883, #0db6eb);
+  --bgColor38:radial-gradient(circle at top left, #4d9de4, #0905c7);
+  --bgColor39:radial-gradient(circle at top left, #1a9fe2, #bc7cf4);
+  --bgColor40:radial-gradient(circle at top left, #e61876, #470041);
+  --bgColor41:radial-gradient(circle at top left, #3fa0d5, #3b3ae5);
+  --bgColor42:radial-gradient(circle at top left, #9a4555, #a6051e);
+  --bgColor43:radial-gradient(circle at top left, #2f4ad3, #516579);
+  --bgColor44:radial-gradient(circle at top left, #22105b, #7679f6);
+  --bgColor45:radial-gradient(circle at top left, #0771f3, #ba199e);
+  --bgColor46:radial-gradient(circle at top left, #9f49cb, #5848e0);
+  --bgColor47:radial-gradient(circle at top left, #6400b7, #a83eae);
+  --bgColor48:linear-gradient(200deg, #d41e31, #061161);
+  --bgColor49:radial-gradient(circle at top left, #3857e8, #6a70f3);
+  --bgColor50:radial-gradient(circle at top left, #4122f3, #2e6abe);
+  --bgColor51:radial-gradient(circle at top left, #2b2c52, #413888);
+  --bgColor52:radial-gradient(circle at top left, #40bfdd, #485eb8);
+  --bgColor53:linear-gradient(#c57e65, #e28462);
+  --bgColor54:#5c72c3;
+}
